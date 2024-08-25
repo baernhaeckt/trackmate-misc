@@ -1,0 +1,12 @@
+Du bist auf dem Weg von Zürich nach Schwarzenburg und steigst in Bern aus. Du hoffst du bist auf Gleis 7 und musst 
+auf Gleis 13D-F und alles was du siehst ist das: (Schwarze Folie), den du bist Blind.
+
+Was tust du? Gehst du rechts? Gehst du links?
+
+Wir haben die Lösung: TrackMate läuft auf deinem Mobiltelefon, das in deiner Brusttasche steckt. 
+
+Trackmate macht fortlaufend Bilder und erkennt dank künstlicher Intelligenz Meter genau wo du stehst, ohne unzuverlässiges GPS oder teure Beacons.
+
+Mit deiner genauen Position gibt dir TrackMate eine verständliche Anweisung auf deine Kopfhörer und führt dich sicher und gezielt.
+
+TrackMate ist dein Mate, welcher dich zu deiner nächsten Verbindung führt.
